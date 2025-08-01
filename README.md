@@ -1,2 +1,2 @@
 # demo
-author nmae:dushyant
+author name:dushyant
